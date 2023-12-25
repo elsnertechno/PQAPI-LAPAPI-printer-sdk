@@ -1,0 +1,6 @@
+framework module Pods_LAPAPI_PQAPI {
+  umbrella header "Pods-LAPAPI_PQAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

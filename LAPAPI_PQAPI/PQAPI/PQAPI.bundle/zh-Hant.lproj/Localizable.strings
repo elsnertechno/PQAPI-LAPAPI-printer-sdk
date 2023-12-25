@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  PQPrintFamily
+
+  Created by Mac on 2021/1/14.
+  
+*/
+
+
+"PQ_PrinterNotConnected" = "未連接打印機"
+"PQ_PleaseEnterBluetoothName" = "請輸入藍牙名";
+"PQ_TheSelectedBluetoothDoesNotExist" = "選擇的藍牙不存在";
+
+"PQ_ThePrinterHasBeenDisconnected" = "打印機連接已經斷開";
+"PQ_PrinterOutOfPaper" = "打印機缺紙";
+"PQ_ThePrinterBoxCoverIsOpened" = "打印機盒蓋被打開";
+"PQ_PrintDataException" = "列印數據异常";
+"PQ_ThePrinterPowerIsTooLow" = "打印機電量過低";
+
+
+"PQ_ConnectToWithName" = "連接到名字為";
+"PQ_YourDeviceFailed" = "的設備失敗";
+"PQ_SsAResultOf" = "原因是";
+
+
+
+
+
